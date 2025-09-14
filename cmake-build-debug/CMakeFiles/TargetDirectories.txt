@@ -1,0 +1,3 @@
+/mnt/c/Main/algs/test_na_kotlin/cmake-build-debug/CMakeFiles/SmallLibrarySystem.dir
+/mnt/c/Main/algs/test_na_kotlin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Main/algs/test_na_kotlin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SmallLibrarySystem.dir/main.cpp.o CMakeFiles/SmallLibrarySystem.dir/Users.cpp.o CMakeFiles/SmallLibrarySystem.dir/Rules.cpp.o CMakeFiles/SmallLibrarySystem.dir/Library.cpp.o CMakeFiles/SmallLibrarySystem.dir/Book.cpp.o -o SmallLibrarySystem 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_na_kotlin.dir/main.cpp.o CMakeFiles/test_na_kotlin.dir/Users.cpp.o CMakeFiles/test_na_kotlin.dir/Rules.cpp.o CMakeFiles/test_na_kotlin.dir/Library.cpp.o CMakeFiles/test_na_kotlin.dir/Book.cpp.o -o test_na_kotlin 
